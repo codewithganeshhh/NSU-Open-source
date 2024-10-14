@@ -33,7 +33,7 @@ The goal is to be well versed with HTML, CSS, JavaScript and Browser APIs such a
 
 ## 💯open source programs this repo has been part of
 <div align="center">
-<img width="576" alt="Hfest-Logo-2-Color-Void@2x" src="https://user-images.githubusercontent.com/49890655/193454110-793ede4b-6685-4b66-937a-97e03e390496.png">
+<img width="576" alt="Hfest-Logo-2-Color-Void@2x" src="/assets/image/Tech Community LOGO.png">
 
 </div>
 
