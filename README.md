@@ -3,7 +3,7 @@
     <img alt="30 Days 30 Projects" height="80" src="./assets/image/add-readme.png">
   </a>
 </p>
-<h1 align="center">Master Web Development</h1>
+<h1 align="center">NSU Tech Community</h1>
 
 <div align="center">
   Learn by building simple projects, using HTML, CSS, JS.
@@ -115,7 +115,7 @@ git push
 ```
 - Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)  which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
-- Congratulations! 🎉 Sit and relax, you've made your contribution to [master-web-development](https://github.com/iamrahulmahato/master-web-development) project.
+- Congratulations! 🎉 Sit and relax, you've made your contribution to [master-web-development](https://github.com/codewithganeshhh/NSU-Open-source) project.
 
 * Tip : Complete this process in GitHub (in your browser)
 
