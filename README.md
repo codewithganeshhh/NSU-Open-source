@@ -3,7 +3,7 @@
     <img alt="30 Days 30 Projects" height="350" src="/assets/image/Tech Community LOGO.png">
   </a>
 </p>
-<h1 align="center">NSU Tech Community</h1>
+<!--<h1 align="center">NSU Tech Community</h1>-->
 
 <div align="center">
   Learn by building simple projects, using HTML, CSS, JS.
