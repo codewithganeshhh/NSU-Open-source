@@ -31,12 +31,6 @@ This repository contains frontend projects that will help you to become an ace F
 
 The goal is to be well versed with HTML, CSS, JavaScript and Browser APIs such as localStorage, IndexDB, etc.
 
-## 💯open source programs this repo has been part of
-<div align="center">
-<img width="100" alt="NSU" src="/assets/image/nsu logo.png.png">
-
-</div>
-
 <center><h1 align="center">Getting Started  </h1></center>
 
 
