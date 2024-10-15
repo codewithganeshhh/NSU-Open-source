@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nsu-open-source.vercel.app/">
-    <img alt="30 Days 30 Projects" height="80" src="./assets/image/add-readme.png">
+    <img alt="30 Days 30 Projects" height="80" src="/assets/image/Tech Community LOGO.png">
   </a>
 </p>
 <h1 align="center">NSU Tech Community</h1>
