@@ -109,6 +109,7 @@ flowchart LR
   Big thanks to all the contributors! 🎉
 
   <a href="https://github.com/codewithganeshhh/NSU-Open-source/pulse"> <img align="center" src="https://contrib.rocks/image?max=100&repo=codewithganeshhh/NSU-Open-source" /> </a> 
+   <a href="https://github.com/iamrahulmahato/master-web-development/pulse"> <img align="center" src="https://contrib.rocks/image?max=100&repo=iamrahulmahato/master-web-development" /> </a> 
   
 </div>
 
